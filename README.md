@@ -1,0 +1,1 @@
+A collection of Deep Learning and Machine Learning implementations in Python, including regression models, gradient descent optimization methods, neural network concepts, and dataset-based classification programs using NumPy and Scikit-learn.
